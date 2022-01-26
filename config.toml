@@ -1,0 +1,4 @@
+baseURL = 'https://aly.ac/'
+languageCode = 'ko-kr'
+title = 'uwu'
+theme = "ananke"
